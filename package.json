@@ -4,7 +4,7 @@
   "description": "An overhaul theme for the lounge that makes it look like Anya BD Theme",
   "main": "package.json",
   "thelounge": {
-    "name": "Anya Theme",
+    "name": "Anya",
     "type": "theme",
     "css": "theme.css",
     "themeColor": "#002b36"
@@ -21,5 +21,15 @@
   ],
   "bugs": {
     "url": "https://github.com/VanillyNeko/anya-lounge-theme/issues"
+  },
+  "devDependencies": {
+    "stylelint": "^15.6.2",
+    "stylelint-config-recommended-scss": "^12.0.0",
+    "stylelint-declaration-strict-value": "^1.9.2",
+    "stylelint-config-standard": "^33.0.0",
+    "stylelint-order": "^6.0.3"
+  },
+  "scripts": {
+    "test": "stylelint theme.css"
   }
 }
