@@ -14,7 +14,7 @@
 
 :root {
     --body-bg-color: url("https://vanillyneko.github.io/Anya-bd/assets/anya-darkened.jpg");
-    --window-bg-color: #051114;
+    --window-bg-color: url("https://vanillyneko.github.io/Anya-bd/assets/anya-darkened.jpg");
     --body-color: #fff;
     --body-color-muted: #b7c5d1;
     --link-color: #268bd2;
