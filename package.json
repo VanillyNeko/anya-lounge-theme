@@ -1,10 +1,10 @@
 ﻿{
   "name": "anya-lounge-theme",
-  "version": "1.1.9",
+  "version": "1.0.0",
   "description": "An overhaul theme for the lounge that makes it look like Anya BD Theme",
   "main": "package.json",
   "thelounge": {
-    "name": "Anya",
+    "name": "Anya Theme",
     "type": "theme",
     "css": "theme.css",
     "themeColor": "#002b36"
@@ -20,7 +20,6 @@
     "anya-lounge-theme"
   ],
   "bugs": {
-    "url": "https://github.com/VanillyNeko/anya-lounge-theme/issues",
-    "url": "https://discord.gg/6vQUZ4Q4YT"
+    "url": "https://github.com/VanillyNeko/anya-lounge-theme/issues"
   }
 }
