@@ -26,5 +26,6 @@ Overrides are below:
     --overlay-bg-color: rgba(0, 0, 0, 0.58);
     --window-heading-color: rgb(88, 2, 108);
     --font-choice: Pacifico;
+    --self-font-color: rgb(101, 161, 255);
 }
 ```
