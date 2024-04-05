@@ -14,8 +14,8 @@
 }
 
 :root {
-    --body-bg-color: url("assets/anya-darkened.jpg");
-    --window-bg-color: url("assets/anya-darkened.jpg");
+    --body-bg-color: url("/packages/thelounge-theme-anya-theme/assets/anya-darkened.jpg");
+    --window-bg-color: url("/packages/thelounge-theme-anya-theme/assets/anya-darkened.jpg");
     --backgroundposition: center;
     --backgroundsize: cover;
     --backgroundOpacity: 100;
